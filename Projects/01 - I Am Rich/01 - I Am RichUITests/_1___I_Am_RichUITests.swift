@@ -1,14 +1,8 @@
-//
-//  _1_iamrichUITests.swift
-//  01-iamrichUITests
-//
-//  Created by Javier Plaza Sisqués on 14/03/2020.
-//  Copyright © 2020 Javier Plaza Sisqués. All rights reserved.
-//
+//___FILEHEADER___
 
 import XCTest
 
-class _1_iamrichUITests: XCTestCase {
+class ___FILEBASENAMEASIDENTIFIER___: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
