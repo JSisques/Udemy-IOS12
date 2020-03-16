@@ -76,6 +76,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		592AC00C241FAF9B00A4D8DE /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				59374578241E5F5900666169 /* ViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
 		59374568241E5F5900666169 = {
 			isa = PBXGroup;
 			children = (
@@ -99,10 +107,10 @@
 		59374573241E5F5900666169 /* 01 - I Am Rich */ = {
 			isa = PBXGroup;
 			children = (
+				592AC00C241FAF9B00A4D8DE /* Controller */,
 				593745A4241E5FAA00666169 /* Storyboard */,
 				59374574241E5F5900666169 /* AppDelegate.swift */,
 				59374576241E5F5900666169 /* SceneDelegate.swift */,
-				59374578241E5F5900666169 /* ViewController.swift */,
 				5937457D241E5F5900666169 /* Assets.xcassets */,
 				59374582241E5F5900666169 /* Info.plist */,
 			);
